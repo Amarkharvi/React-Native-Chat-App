@@ -9,14 +9,7 @@ import { IconButton,Colors } from 'react-native-paper'
 import {Permissions,Notifications} from 'expo';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDAsJxxIQPmgo8YKGNz--FBSrP6wa_d4y0",
-    authDomain: "big6-dc862.firebaseapp.com",
-    databaseURL: "https://big6-dc862.firebaseio.com",
-    projectId: "big6-dc862",
-    storageBucket: "big6-dc862.appspot.com",
-    messagingSenderId: "531347154668",
-    appId: "1:531347154668:web:cc2ac73b395d9738d167c9",
-    measurementId: "G-VQHMC78CD2"
+    //Put Your Firebase Code
   }
 
 
